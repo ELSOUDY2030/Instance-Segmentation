@@ -8,6 +8,32 @@
 
 # Instance Segmentation Tooth Dentistry
 
-This project employs the Mask R-CNN model to perform instance segmentation specifically for dental applications within the field of dentistry. With this model, it becomes possible to recognize and delineate individual teeth along with assessing their conditions, including but not limited to implants, root canals, and crowns, using dental X-ray images. This comprehensive README offers insights into the project, its configuration, and potential applications.
+This project employs the Mask R-CNN model to perform instance segmentation specifically for dental applications within the field of dentistry. With this model, it becomes possible to recognize and delineate individual teeth while also assessing their conditions, including but not limited to implants, root canals, and crowns, using dental X-ray images. This comprehensive README offers insights into the project, its configuration, and potential applications.
 
 
+
+### Installation
+
+- **Start by cloning the project repository using the following link:**
+
+    ```
+   https://github.com/ELSOUDY2030/Instance-Segmentation.git
+    ```
+
+- **Next, you'll need to download the model. You can get it from the following location:**
+
+    ```
+    https://drive.google.com/file/d/1-6Z0pLzjVd05vCLe2_NR5KsVkDLBk5CU/view?usp=sharing
+    ```
+    
+- **Now, it's time to build the Docker image. Execute the following command:**
+
+    ```
+   docker build -t MaskRCNN .
+    ```
+
+- **Finally, run the Docker container using the following command:**
+
+    ```
+   docker container run -it -v C:\clone\location:/docker -p 8501:8501 --name torch deep/torch:v1.0  /bin/bash
+    ```
