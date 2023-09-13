@@ -66,3 +66,23 @@ This dataset comprises dental X-ray images that include a variety of diseases. T
  2. **without Docker**
 
 - **Install Detectron and Streamlit**
+
+
+## Get in Touch
+
+[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />](https://wa.me/+201279548818)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/mohammad-nomer/)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" />](mailto:mohammadnomer2030@gmail.com)
+&nbsp;&nbsp;
+
+
+
+## Get in Touch
+
+Please share your feedback on how I can improve and any ideas to enhance the model. I'm eager to receive any advice that can help me develop my skills.
+
+&nbsp;&nbsp;
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=4000&pause=300&color=FFC107&background=FFFFFF00&center=true&vCenter=true&width=1200&height=240&lines=Thank+you" alt="Typing SVG" /></a>
