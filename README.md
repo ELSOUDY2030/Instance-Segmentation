@@ -1,4 +1,4 @@
-62## Instance-Segmentation With MaskRCNN Using Detectron2
+## Instance-Segmentation With MaskRCNN Using Detectron2
 
 
 
