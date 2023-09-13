@@ -47,7 +47,7 @@ This dataset comprises dental X-ray images that include a variety of diseases. T
 
 
 
-## How can it be used?
+## How to Utilize It?
 
 1. **With Docker**
    
