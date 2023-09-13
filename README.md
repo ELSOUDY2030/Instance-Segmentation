@@ -11,6 +11,13 @@
 This project employs the Mask R-CNN model to perform instance segmentation specifically for dental applications within the field of dentistry. With this model, it becomes possible to recognize and delineate individual teeth while also assessing their conditions, including but not limited to implants, root canals, and crowns, using dental X-ray images. This comprehensive README offers insights into the project, its configuration, and potential applications.
 
 
+### Data
+
+This dataset comprises dental X-ray images that include a variety of diseases. These images will be processed using Instance Segmentation with MaskRCNN.
+
+    ```
+    https://universe.roboflow.com/bassem-ahmed-mzidg/dentistry-vbril
+    ```
 
 ### Installation
 
