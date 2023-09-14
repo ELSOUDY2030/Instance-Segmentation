@@ -79,7 +79,7 @@ This dataset comprises dental X-ray images that include a variety of diseases. T
 
 
 
-## Get in Touch
+## Give Feedback
 
 Please share your feedback on how I can improve and any ideas to enhance the model. I'm eager to receive any advice that can help me develop my skills.
 
